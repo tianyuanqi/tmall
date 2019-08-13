@@ -14,7 +14,7 @@ spring:
       #driverClassName: com.mysql.jdbc.Driver
       # MySQL 驱动 8.x以后，建议使用cj的驱动
       driverClassName: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://127.0.0.1:3306/J1805_oa?useSSL=false
+      url: jdbc:mysql://127.0.0.1:3306/goods?useSSL=false
       username: root
       password: 19970810
 

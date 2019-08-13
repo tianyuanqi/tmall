@@ -20,11 +20,20 @@
 
 
     <dependencies>
+
+
         <dependency>
             <groupId>com.tyq</groupId>
             <artifactId>config</artifactId>
             <version>${project.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.tyq</groupId>
+            <artifactId>resources</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
 
         <!-- 热部署 -->
         <dependency>
@@ -53,7 +62,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
+            <scope>5.1.42</scope>
         </dependency>
 
         <!-- JSTL -->

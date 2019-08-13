@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config" />
         <module name="identity" />
+        <module name="resources" />
       </profile>
     </annotationProcessing>
   </component>
